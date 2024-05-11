@@ -42,7 +42,7 @@ This architecture sets the stage for unparalleled digital commerce experiences, 
 - Implement system performance monitoring tools for real-time insights and proactive management.
 - Enable logging support for seamless traceability and debugging.
 
-This dynamic architecture fuels our e-commerce platform, delivering unparalleled user experiences, robust performance, and scalability. Join us in revolutionizing the digital shopping landscape!
+This dynamic architecture fuels our e-commerce platform, delivering unparalleled user experiences, robust performance, and scalability.
 
 ---
 
