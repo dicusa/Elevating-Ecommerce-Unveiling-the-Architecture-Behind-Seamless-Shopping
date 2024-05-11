@@ -59,5 +59,5 @@ This dynamic architecture fuels our e-commerce platform, delivering unparalleled
 **Diagram:**
 ```
 
-![Ecom Architecture](https://github.com/dicusa/Elevating-Ecommerce-Unveiling-the-Architecture-Behind-Seamless-Shopping/assets/57257390/71effcf3-e96b-47c8-bb5e-9e51119dbe41)
+![System Architecture](Ecom Architecture.png)
 
