@@ -59,5 +59,5 @@ This dynamic architecture fuels our e-commerce platform, delivering unparalleled
 **Diagram:**
 ```
 
-![System Architecture](Ecom Architecture.png)
+![System Architecture](EcomArchitecture.png)
 
