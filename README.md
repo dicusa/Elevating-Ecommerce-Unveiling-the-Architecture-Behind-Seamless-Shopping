@@ -42,16 +42,19 @@ This architecture sets the stage for unparalleled digital commerce experiences, 
 - Implement system performance monitoring tools for real-time insights and proactive management.
 - Enable logging support for seamless traceability and debugging.
 
-📊 Marketing & Analytics Tools:
+📊 **Marketing & Analytics Tools:**
 
 Marketo: Streamlines marketing automation and campaign management.
 Google Analytics: Offers deep insights into user behavior and website performance.
 Adobe Analytics: Provides advanced analytics and reporting for data-driven decisions.
-🗄️ Database Layer:
+
+🗄️ **Database Layer:**
 
 SQL: Standard database language for data manipulation and retrieval.
 PostgreSQL: Open-source database for scalability and reliability.
 Cassandra: Distributed NoSQL database for high availability and fault tolerance.
+
+
 This dynamic architecture fuels our e-commerce platform, delivering unparalleled user experiences, robust performance, and scalability.
 
 ---
