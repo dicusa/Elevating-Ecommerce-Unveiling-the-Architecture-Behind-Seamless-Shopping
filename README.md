@@ -1,9 +1,9 @@
-# Elevating-Ecommerce-Unveiling-the-Architecture-Behind-Seamless-Shopping
+# Elevating-E-commerce-Unveiling-the-Architecture-Behind-Seamless-Shopping
 This architecture sets the stage for unparalleled digital commerce experiences, empowering businesses to thrive in today's competitive landscape.
 
 ---
 
-**Title: Elevating Ecommerce: Unveiling the Architecture Behind Seamless Shopping**
+**Title: Elevating E-commerce: Unveiling the Architecture Behind Seamless Shopping**
 
 🛒 **Backend Microservices:**
 - **API Technologies:** Depending on traffic, we harness the agility of Node.js with Express for lighter loads, while Spring Boot powers our scaling needs.
@@ -42,57 +42,22 @@ This architecture sets the stage for unparalleled digital commerce experiences, 
 - Implement system performance monitoring tools for real-time insights and proactive management.
 - Enable logging support for seamless traceability and debugging.
 
+📊 Marketing & Analytics Tools:
+
+Marketo: Streamlines marketing automation and campaign management.
+Google Analytics: Offers deep insights into user behavior and website performance.
+Adobe Analytics: Provides advanced analytics and reporting for data-driven decisions.
+🗄️ Database Layer:
+
+SQL: Standard database language for data manipulation and retrieval.
+PostgreSQL: Open-source database for scalability and reliability.
+Cassandra: Distributed NoSQL database for high availability and fault tolerance.
 This dynamic architecture fuels our e-commerce platform, delivering unparalleled user experiences, robust performance, and scalability.
 
 ---
 
 **Diagram:**
 ```
-+-------------------------+
-|    Frontend Layer       |
-|   (React, Angular, AEM) |
-+------------+------------+
-             |
-             |
-+------------v------------+
-|   Backend Microservices |
-| (Node.js/Express, Spring|
-| Boot, Microservices)    |
-+------------+------------+
-             |
-             |
-+------------v------------+
-| E-commerce Suite        |
-| (SAP Commerce, Magento, |
-| Shopify, Commerce Tools)|
-+------------+------------+
-             |
-             |
-+------------v------------+
-| External OMS & CRM      |
-| (Fluent Commerce, Mulesoft,|
-| Salesforce, SAP OMS)    |
-+------------+------------+
-             |
-             |
-+------------v------------+
-|   User Registry &       |
-|   Payment Gateways      |
-| (LDAP, Azure B2C,       |
-| Paymetric, Stripe, etc.)|
-+------------+------------+
-             |
-             |
-+------------v------------+
-|  Search & Recommendation|
-| (SOLR, Elastic Search,  |
-| Algolia)                |
-+------------+------------+
-             |
-             |
-+------------v------------+
-|   CDN & Performance     |
-| (Akamai, AWS, Cloudflare)|
-+-------------------------+
-```
+
+![Ecom Architecture](https://github.com/dicusa/Elevating-Ecommerce-Unveiling-the-Architecture-Behind-Seamless-Shopping/assets/57257390/71effcf3-e96b-47c8-bb5e-9e51119dbe41)
 
